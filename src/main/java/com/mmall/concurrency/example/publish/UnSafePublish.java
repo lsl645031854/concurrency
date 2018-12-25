@@ -23,5 +23,6 @@ public class UnSafePublish {
          log.info("{}",Arrays.toString(result));
          result[0] = "d";
         log.info("{}",Arrays.toString(result));
+        log.info("{}",Arrays.toString(result));
     }
 }
