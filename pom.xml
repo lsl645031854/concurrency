@@ -47,7 +47,13 @@
             <artifactId>guava</artifactId>
             <version>19.0</version>
         </dependency>
-    </dependencies>
+		<!-- https://.mvnrepositorycom/artifact/joda-time/joda-time -->
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>2.10</version>
+		</dependency>
+	</dependencies>
 
 	<build>
 		<plugins>
