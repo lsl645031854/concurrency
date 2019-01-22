@@ -6,4 +6,7 @@ package com.mmall.concurrency.example.concurrent;
  * @Date: Created on 21:29 2019/1/13
  */
 public class CopyOnWriteArrayList {
+    public static void main(String[] args) {
+
+    }
 }
